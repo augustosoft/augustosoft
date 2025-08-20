@@ -15,8 +15,7 @@ Com o objetivo de crescer nesse novo campo e pronta para encarar os desafios que
 <img src=	"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-*Para alterar o tamanho, altere <img> `height`e `width`.
+
 
 <br>
 
