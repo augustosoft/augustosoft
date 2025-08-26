@@ -1,5 +1,5 @@
 ##  Augustosoft
-Júnior Front-End Developer                 curriculo
+Júnior Front-End Developer                 
 
 Bem-vindo(a) ao meu perfil! Sou Augusto de Oliveira.
 
